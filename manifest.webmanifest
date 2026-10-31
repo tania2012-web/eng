@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Road Ready — English Safety",
-  "short_name": "Road Ready",
-  "description": "Тренажёр английского языка: безопасность на дороге.",
+  "name": "English Practice — школьный тренажёр",
+  "short_name": "English Practice",
+  "description": "Тренажёр английского языка с темами по классам.",
   "lang": "ru",
   "start_url": "./",
   "scope": "./",
