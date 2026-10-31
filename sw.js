@@ -1,4 +1,4 @@
-const CACHE_NAME = "road-ready-pwa-v1";
+const CACHE_NAME = "english-practice-pwa-v2";
 const APP_FILES = [
   "./",
   "./index.html",
